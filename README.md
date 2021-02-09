@@ -134,4 +134,4 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://adityajv.student.saveetha.in:8000/productsresponsive. GitHub Repo URL is https://github.com/adityajv2310/responsivedesign.
+Thus a website is designed for the newgen gift products in NewGen Collections and is hosted in the URL http://adityajv.student.saveetha.in:8000/productsresponsive. GitHub Repo URL is https://github.com/adityajv2310/responsivedesign.
