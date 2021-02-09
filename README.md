@@ -124,9 +124,9 @@ Publish the website in the given URL.
 ~~~
 
 ## OUTPUT:
-![output](./static/img/o1.jpg)
+![output](./static/img/o1.png)
 
-![output](./static/img/o2.jpg)
+![output](./static/img/o2.png)
 
 ![output](./static/img/o3.png)
 
